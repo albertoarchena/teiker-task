@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "teiker-task",
   "private": true,
   "scripts": {
     "build": "turbo run build",
